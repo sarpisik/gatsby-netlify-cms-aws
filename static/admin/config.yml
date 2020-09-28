@@ -3,7 +3,7 @@ backend:
   repo: sarpisik/gatsby-netlify-cms-aws
 
 media_folder: content/assets
-public_folder: /admin
+public_folder: ../assets
 
 collections:
   - name: blog
