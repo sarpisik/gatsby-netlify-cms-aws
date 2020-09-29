@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: sarpisik/gatsby-netlify-cms-aws
+  base_url: https://fringe-profuse-afternoon.glitch.me
 
 media_folder: content/assets
 public_folder: ../assets
